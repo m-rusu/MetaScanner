@@ -1,0 +1,15 @@
+F:\job stuff\CodingChallenge\MetaScanner\scanner\bin\Debug\net8.0\scanner.exe
+F:\job stuff\CodingChallenge\MetaScanner\scanner\bin\Debug\net8.0\scanner.deps.json
+F:\job stuff\CodingChallenge\MetaScanner\scanner\bin\Debug\net8.0\scanner.runtimeconfig.json
+F:\job stuff\CodingChallenge\MetaScanner\scanner\bin\Debug\net8.0\scanner.dll
+F:\job stuff\CodingChallenge\MetaScanner\scanner\bin\Debug\net8.0\scanner.pdb
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.GeneratedMSBuildEditorConfig.editorconfig
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.AssemblyInfoInputs.cache
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.AssemblyInfo.cs
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.csproj.CoreCompileInputs.cache
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.sourcelink.json
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.dll
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\refint\scanner.dll
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.pdb
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\scanner.genruntimeconfig.cache
+F:\job stuff\CodingChallenge\MetaScanner\scanner\obj\Debug\net8.0\ref\scanner.dll
